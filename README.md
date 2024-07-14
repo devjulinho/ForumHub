@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto - Fórum Hub </h1>
 
-![badge-springframework](https://raw.githubusercontent.com/devjulinho/ForumHub/master/img/badge-spring.png)
+![badge-springframework](https://raw.githubusercontent.com/devjulinho/ForumHub/main/img/Badge-Spring.png)
 
 ### Descrição do Projeto
 Projeto realizado durante o Programa ONE da Oracle e da Alura. A proposta da realização deste projeto é praticar o desenvolvimento de uma API Rest, usando os conceitos de CRUD (Create, Read, Update and Delete).
